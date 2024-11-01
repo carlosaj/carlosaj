@@ -14,12 +14,6 @@
 - Frameworks and Libraries: ...
 - Tools and Platforms: ...
 
-## Projects
-Here are some of the projects I've been working on:
-
-1. [Project 1](https://github.com/carlosaj/project1) - Description
-2. [Project 2](https://github.com/carlosaj/project2) - Description
-
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/carlosaj/)
-- [Twitter](https://twitter.com/carlosaj)
+- [LinkedIn](https://www.linkedin.com/in/carlosabreujr/)
+- [Twitter](https://x.com/carlos_abreu)
